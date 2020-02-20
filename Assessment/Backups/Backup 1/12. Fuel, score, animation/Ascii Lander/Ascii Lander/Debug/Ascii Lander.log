@@ -1,0 +1,4 @@
+﻿  Game.cpp
+cl : command line warning D9025: overriding '/analyze-' with '/analyze:stacksize16388'
+D:\Uni\Course content and links\4019-Programming-and-maths\Assessment\12. Fuel, score, animation\Ascii Lander\Ascii Lander\Utility.h(68,20): warning C4018: '<': signed/unsigned mismatch
+  Ascii Lander.vcxproj -> D:\Uni\Course content and links\4019-Programming-and-maths\Assessment\12. Fuel, score, animation\Ascii Lander\Debug\Ascii Lander.exe

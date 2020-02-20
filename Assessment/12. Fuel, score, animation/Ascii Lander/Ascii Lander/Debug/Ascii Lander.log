@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\Uni\Course content and links\4019-Programming-and-maths\Assessment\12. Fuel, score, animation\Ascii Lander\Ascii Lander\Utility.h(69,21): warning C4018: '<': signed/unsigned mismatch
+D:\Uni\Course content and links\4019-Programming-and-maths\Assessment\12. Fuel, score, animation\Ascii Lander\Ascii Lander\Game.cpp(189,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ascii Lander.vcxproj -> D:\Uni\Course content and links\4019-Programming-and-maths\Assessment\12. Fuel, score, animation\Ascii Lander\Debug\Ascii Lander.exe

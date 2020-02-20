@@ -1,10 +1,4 @@
 Due: Wednesday 18th december 2019 3pm
-Although the Assessment Brief on the Module Guide includes details of the standard submission deadline,
-in all cases those become individualised for you, and presented to you through the assessment point itself.
-
-This applies to all forms of assessment, with the exception of exams, where the date and time will be available
-in MyGlos approximately four weeks in advance, and certain forms of assessment such as presentations and performances,
-for which these details will be clarified by your tutor.
 
 Submissions Details:
 Full code project - The full Visual Studio 2019 code project with all associated source files should be submitted via the GitHub Classroom link.
@@ -15,15 +9,6 @@ Students will be required to build an ASCII-based game engine using the Windows 
 Students will use this basic engine to build an approximation of the 1979 classic Atari title "Lunar Lander".
 
 Requirements:
-The "lander" must respond to keyboard input.
-
-There must be designated landing in the level which award the player different amounts points for a successful landing.
-
-The "lander" should expend fuel when accelerating.
-
-There must be a basic user interface displaying current fuel levels, the full play time and the player's score.
-
-The implementation should contain some evidence of Object-Oriented programming.
 
 Constraints:
 Students must use the C++ programming language.
